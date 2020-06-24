@@ -20,8 +20,7 @@ The following **stretch** features are implemented:
 
 The following **additional** features will be implemented:
 
-* [ ] Increase distinction between list items
-* [ ] Prevent user from adding an item with no name
+* [X] Prevent user from adding an item with no name
 
 ## Video Walkthrough
 
